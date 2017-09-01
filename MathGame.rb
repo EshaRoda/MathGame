@@ -14,7 +14,6 @@ while (player1.lifestatus && player2.lifestatus) do
  player = (current_player.odd?) ? player1 : player2
 
  question = Ask.new()
-
  puts " "
  puts "----------NEW-TURN----------"
  puts " "

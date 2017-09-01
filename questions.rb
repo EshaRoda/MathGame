@@ -1,4 +1,5 @@
 class Ask
+
  attr_accessor :answer, :question
 
  def initialize
